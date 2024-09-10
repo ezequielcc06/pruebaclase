@@ -1,0 +1,2 @@
+# pruebaclase
+smart factory TEST
